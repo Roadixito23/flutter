@@ -51,7 +51,7 @@ const templateKotlinGradlePluginVersion = '2.2.20';
 // Please see the README before changing any of these values.
 const compileSdkVersionInt = 36;
 const compileSdkVersion = '$compileSdkVersionInt';
-const minSdkVersionInt = 24;
+const minSdkVersionInt = 23;
 const minSdkVersion = '$minSdkVersionInt';
 const targetSdkVersion = '36';
 // When bumping, also update:
